@@ -2,6 +2,10 @@
 
 Sistema de Eventos encomentado pela Morena.
 
+[![Build Status](https://travis-ci.org/Octavio-Santana/eventex.svg?branch=master)](https://travis-ci.org/Octavio-Santana/eventex)
+[![Maintainability](https://api.codeclimate.com/v1/badges/79f898de60d0357b1b1b/maintainability)](https://codeclimate.com/github/Octavio-Santana/eventex/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/79f898de60d0357b1b1b/test_coverage)](https://codeclimate.com/github/Octavio-Santana/eventex/test_coverage)
+
 ## Como desenvolver
 
 1. Clone o repositório
